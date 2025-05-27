@@ -64,7 +64,7 @@ The notebook includes:
 - Surya Kailash Ramesh
 
 ## 📎 Blog Post
-[📖 Read the full blog post](link-to-your-github-notebook-or-blog-post)
+[📖 Read the full blog post](https://github.com/Eliokay/Practical-Homework-4/blob/main/Unsupervised%20learning%20blog%20post.pdf))
 
 ## 📂 Folder Contents
 - `Unsupervised_Learning.ipynb`: Main notebook with all analysis
